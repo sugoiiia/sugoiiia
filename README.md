@@ -1,6 +1,6 @@
 # Aahil Ansari — عاہل انصاری
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&size=16&duration=2000&pause=800&color=C8B87A&width=500&lines=mechanical+engineer+%40+ualberta;reinforcement+learning+researcher;builder+of+things+that+move;surgeon+(someday))](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&size=16&duration=2000&pause=800&color=C8B87A&width=500&lines=mechanical+engineer+%40+ualberta;reinforcement+learning+researcher;builder+of+things+that+move)](https://git.io/typing-svg)
 
 ---
 
