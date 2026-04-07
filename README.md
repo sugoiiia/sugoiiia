@@ -25,7 +25,6 @@ I do research in surgical robotics and RL, build RC cars in my spare time, and h
 
 **what i'm probably listening to**
 
-<p align="left">
-  <img src="album-cover.png" width="100" style="vertical-align: middle; border-radius: 6px;" />
-  <img src="./equalizer.svg" height="80" style="vertical-align: middle; margin: 0 12px;" />
+<p align="center">
+  <img src="./equalizer.svg" width= 100% style="vertical-align: middle; margin: 0 12px;" />
 </p>
