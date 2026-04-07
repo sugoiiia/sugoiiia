@@ -23,7 +23,7 @@ I do research in surgical robotics and RL, build RC cars in my spare time, and h
 
 ---
 
-**what i'm probably listening to**
+**what i'm probably listening to:**
 
 <p align="center">
   <a href="https://open.spotify.com/track/2LSmH4vxyRhkJ2pPqcmkXw">
