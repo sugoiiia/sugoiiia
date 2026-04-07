@@ -25,4 +25,4 @@ I do research in surgical robotics and RL, build RC cars in my spare time, and h
 
 **what i'm probably listening to**
 
-[<img src="./equalizer.svg" width="100%" /> Noble — F3miii](https://open.spotify.com/track/2LSmH4vxyRhkJ2pPqcmkXw?si=4b70ec60cb8e46bf)
+[<img src="./album-cover.png" width="40" height="40" style="border-radius:4px" valign="middle"/> &nbsp; <img src="./equalizer.svg" width="60" height="20" valign="middle"/> &nbsp; Noble — F3miii](https://open.spotify.com/track/2LSmH4vxyRhkJ2pPqcmkXw?si=4b70ec60cb8e46bf)
