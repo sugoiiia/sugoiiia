@@ -26,7 +26,7 @@ I do research in surgical robotics and RL, build RC cars in my spare time, and h
 **what i'm probably listening to:**
 
 <p align="center">
-  <a href="https://open.spotify.com/track/2LSmH4vxyRhkJ2pPqcmkXw">
+  <a href="https://open.spotify.com/track/6QuvIMZWiXDe7esAWV1KhY?si=3HHu1FfgQcqqbpRNr4jw8A">
     <img src="./equalizer.svg" width="100%" style="vertical-align: middle; margin: 0 12px;" />
   </a>
 </p>
